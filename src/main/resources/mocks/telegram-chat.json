@@ -1,0 +1,4129 @@
+{
+ "name": "Cagane",
+ "type": "private_supergroup",
+ "id": 1806830863,
+ "messages": [
+  {
+   "id": -999336909,
+   "type": "service",
+   "date": "2023-01-14T15:41:42",
+   "date_unixtime": "1673707302",
+   "actor": "Daniel",
+   "actor_id": "user169509184",
+   "action": "create_group",
+   "title": "Cagane",
+   "members": [
+    "Daniel",
+    "Karla 🐈"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": -999336908,
+   "type": "message",
+   "date": "2023-01-14T15:41:57",
+   "date_unixtime": "1673707317",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": -999336900,
+   "type": "message",
+   "date": "2023-01-14T16:39:15",
+   "date_unixtime": "1673710755",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Let's go",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Let's go"
+    }
+   ]
+  },
+  {
+   "id": -999336899,
+   "type": "message",
+   "date": "2023-01-14T16:39:25",
+   "date_unixtime": "1673710765",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Esto como va solo puedo poner el icono?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Esto como va solo puedo poner el icono?"
+    }
+   ]
+  },
+  {
+   "id": -999336898,
+   "type": "message",
+   "date": "2023-01-14T17:10:22",
+   "date_unixtime": "1673712622",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Si, en principio sería solo enviar iconos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Si, en principio sería solo enviar iconos"
+    }
+   ]
+  },
+  {
+   "id": -999336897,
+   "type": "service",
+   "date": "2023-01-14T17:10:44",
+   "date_unixtime": "1673712644",
+   "actor": "Daniel",
+   "actor_id": "user169509184",
+   "action": "migrate_to_supergroup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2023-01-14T17:10:44",
+   "date_unixtime": "1673712644",
+   "actor": "Cagane",
+   "actor_id": "channel1806830863",
+   "action": "migrate_from_group",
+   "title": "Cagane",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 3,
+   "type": "message",
+   "date": "2023-01-14T18:21:55",
+   "date_unixtime": "1673716915",
+   "edited": "2023-01-14T18:22:15",
+   "edited_unixtime": "1673716935",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": [
+    "Hola ",
+    {
+     "type": "mention",
+     "text": "@InoriShiemi"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hola "
+    },
+    {
+     "type": "mention",
+     "text": "@InoriShiemi"
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "type": "message",
+   "date": "2023-01-14T18:25:49",
+   "date_unixtime": "1673717149",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Hi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Hi"
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "type": "message",
+   "date": "2023-01-15T13:08:34",
+   "date_unixtime": "1673784514",
+   "edited": "2023-01-15T13:09:11",
+   "edited_unixtime": "1673784551",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "type": "message",
+   "date": "2023-01-15T14:29:57",
+   "date_unixtime": "1673789397",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "type": "message",
+   "date": "2023-01-15T14:30:40",
+   "date_unixtime": "1673789440",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Otra vez? 😱",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Otra vez? 😱"
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "type": "message",
+   "date": "2023-01-15T14:30:54",
+   "date_unixtime": "1673789454",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Una chiquita si",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Una chiquita si"
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "type": "message",
+   "date": "2023-01-15T15:25:53",
+   "date_unixtime": "1673792753",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2023-01-16T11:44:53",
+   "date_unixtime": "1673865893",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2023-01-16T11:57:30",
+   "date_unixtime": "1673866650",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2023-01-17T10:33:13",
+   "date_unixtime": "1673947993",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "type": "message",
+   "date": "2023-01-17T11:04:52",
+   "date_unixtime": "1673949892",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2023-01-18T11:23:57",
+   "date_unixtime": "1674037437",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2023-01-18T12:51:29",
+   "date_unixtime": "1674042689",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2023-01-19T12:16:35",
+   "date_unixtime": "1674126995",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2023-01-19T13:24:47",
+   "date_unixtime": "1674131087",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2023-01-20T14:58:23",
+   "date_unixtime": "1674223103",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2023-01-20T14:58:34",
+   "date_unixtime": "1674223114",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Cada día se retrasa más😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Cada día se retrasa más😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "type": "message",
+   "date": "2023-01-20T15:16:45",
+   "date_unixtime": "1674224205",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Yo hoynde momento nada",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo hoynde momento nada"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2023-01-20T15:18:17",
+   "date_unixtime": "1674224297",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Y sin vistas? Nos vamos estriñendo conforme pasa la semana 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Y sin vistas? Nos vamos estriñendo conforme pasa la semana 😂"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2023-01-20T18:08:30",
+   "date_unixtime": "1674234510",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Sin vistas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sin vistas"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "type": "message",
+   "date": "2023-01-21T14:55:34",
+   "date_unixtime": "1674309334",
+   "edited": "2023-01-21T14:55:58",
+   "edited_unixtime": "1674309358",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "type": "message",
+   "date": "2023-01-21T14:55:39",
+   "date_unixtime": "1674309339",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Finalmench",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Finalmench"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "type": "message",
+   "date": "2023-01-21T14:55:49",
+   "date_unixtime": "1674309349",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Joer me estaba preocupando",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Joer me estaba preocupando"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2023-01-21T14:55:51",
+   "date_unixtime": "1674309351",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Jajajajajjaaja",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jajajajajjaaja"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2023-01-21T14:56:08",
+   "date_unixtime": "1674309368",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Esta bien porque así lo controlo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Esta bien porque así lo controlo"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2023-01-21T14:56:09",
+   "date_unixtime": "1674309369",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Jajajajjaja",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Jajajajjaja"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "type": "message",
+   "date": "2023-01-21T14:56:25",
+   "date_unixtime": "1674309385",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Si, yo igual",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Si, yo igual"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2023-01-21T14:56:33",
+   "date_unixtime": "1674309393",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Me he dado cuenta que hoy no he ido",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Me he dado cuenta que hoy no he ido"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "service",
+   "date": "2023-01-21T15:01:36",
+   "date_unixtime": "1674309696",
+   "actor": "Karla 🐈",
+   "actor_id": "user169687316",
+   "action": "invite_members",
+   "members": [
+    "Sergio Niño Polla"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2023-01-21T15:02:54",
+   "date_unixtime": "1674309774",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Fua Sergio nos va a spamear todo el día cagando 😂😂😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Fua Sergio nos va a spamear todo el día cagando 😂😂😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2023-01-21T15:02:58",
+   "date_unixtime": "1674309778",
+   "edited": "2023-01-21T15:03:10",
+   "edited_unixtime": "1674309790",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Welcome 👋🏻",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Welcome 👋🏻"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "type": "message",
+   "date": "2023-01-21T21:48:57",
+   "date_unixtime": "1674334137",
+   "edited": "2023-01-22T02:46:53",
+   "edited_unixtime": "1674352013",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2023-01-22T03:00:24",
+   "date_unixtime": "1674352824",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2023-01-22T03:00:38",
+   "date_unixtime": "1674352838",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "._.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "._."
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "type": "message",
+   "date": "2023-01-22T03:00:43",
+   "date_unixtime": "1674352843",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "😂😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2023-01-22T03:00:52",
+   "date_unixtime": "1674352852",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Ha sido sorpresa",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ha sido sorpresa"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "type": "message",
+   "date": "2023-01-22T03:00:58",
+   "date_unixtime": "1674352858",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "No me lo esperaba la verdad",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No me lo esperaba la verdad"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2023-01-22T03:01:03",
+   "date_unixtime": "1674352863",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "JAJAJAJJAJA",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "JAJAJAJJAJA"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2023-01-22T03:01:12",
+   "date_unixtime": "1674352872",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Yo llevo desde ayer",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo llevo desde ayer"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2023-01-22T03:01:49",
+   "date_unixtime": "1674352909",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "F",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "F"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2023-01-22T21:35:45",
+   "date_unixtime": "1674419745",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2023-01-22T21:36:31",
+   "date_unixtime": "1674419791",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "reply_to_message_id": 18,
+   "text": "yo llevo dos dias ya T.T",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "yo llevo dos dias ya T.T"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "type": "message",
+   "date": "2023-01-22T21:57:04",
+   "date_unixtime": "1674421024",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2023-01-22T23:34:55",
+   "date_unixtime": "1674426895",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2023-01-23T10:18:37",
+   "date_unixtime": "1674465517",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2023-01-23T13:18:38",
+   "date_unixtime": "1674476318",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2023-01-23T17:04:05",
+   "date_unixtime": "1674489845",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2023-01-24T11:27:43",
+   "date_unixtime": "1674556063",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2023-01-24T11:28:09",
+   "date_unixtime": "1674556089",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "He vuelto a autorregularme 😌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "He vuelto a autorregularme 😌"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2023-01-24T12:01:02",
+   "date_unixtime": "1674558062",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2023-01-24T18:20:22",
+   "date_unixtime": "1674580822",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2023-01-24T18:24:34",
+   "date_unixtime": "1674581074",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "La que nunca caga wtf",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "La que nunca caga wtf"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2023-01-24T18:26:37",
+   "date_unixtime": "1674581197",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Que pacha",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Que pacha"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "type": "message",
+   "date": "2023-01-24T18:32:59",
+   "date_unixtime": "1674581579",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Nada no sabia que cagabas, es solo eso",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Nada no sabia que cagabas, es solo eso"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "type": "message",
+   "date": "2023-01-24T18:51:14",
+   "date_unixtime": "1674582674",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2023-01-24T18:58:44",
+   "date_unixtime": "1674583124",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😭",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 59,
+   "type": "message",
+   "date": "2023-01-25T10:35:40",
+   "date_unixtime": "1674639340",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2023-01-25T11:43:40",
+   "date_unixtime": "1674643420",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2023-01-25T12:08:30",
+   "date_unixtime": "1674644910",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "type": "message",
+   "date": "2023-01-25T15:07:28",
+   "date_unixtime": "1674655648",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "type": "message",
+   "date": "2023-01-25T15:32:58",
+   "date_unixtime": "1674657178",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "👀",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 64,
+   "type": "message",
+   "date": "2023-01-25T15:58:08",
+   "date_unixtime": "1674658688",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "type": "message",
+   "date": "2023-01-26T09:44:54",
+   "date_unixtime": "1674722694",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "type": "message",
+   "date": "2023-01-26T09:45:04",
+   "date_unixtime": "1674722704",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Sin café, me estoy sorprendido gratamente",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sin café, me estoy sorprendido gratamente"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "type": "message",
+   "date": "2023-01-26T09:46:25",
+   "date_unixtime": "1674722785",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "🥺",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 68,
+   "type": "message",
+   "date": "2023-01-26T11:34:29",
+   "date_unixtime": "1674729269",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "type": "message",
+   "date": "2023-01-27T10:06:06",
+   "date_unixtime": "1674810366",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "type": "message",
+   "date": "2023-01-27T10:06:11",
+   "date_unixtime": "1674810371",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Casi me cago encima",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Casi me cago encima"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "type": "message",
+   "date": "2023-01-27T10:29:39",
+   "date_unixtime": "1674811779",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Y eso? 😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Y eso? 😂😂"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "type": "message",
+   "date": "2023-01-27T10:39:39",
+   "date_unixtime": "1674812379",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "🤷‍♀",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤷‍♀"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "type": "message",
+   "date": "2023-01-27T10:42:14",
+   "date_unixtime": "1674812534",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "type": "message",
+   "date": "2023-01-27T12:07:38",
+   "date_unixtime": "1674817658",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "type": "message",
+   "date": "2023-01-27T13:00:26",
+   "date_unixtime": "1674820826",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "type": "message",
+   "date": "2023-01-29T14:14:01",
+   "date_unixtime": "1674998041",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "type": "message",
+   "date": "2023-01-29T14:14:48",
+   "date_unixtime": "1674998088",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "O se me ha olvidado ponerlo o no he cagado estos días ._.",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "O se me ha olvidado ponerlo o no he cagado estos días ._."
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "type": "message",
+   "date": "2023-01-29T14:15:03",
+   "date_unixtime": "1674998103",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Ante la duda pues no lo pongas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ante la duda pues no lo pongas"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "type": "message",
+   "date": "2023-01-29T14:17:14",
+   "date_unixtime": "1674998234",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "reply_to_message_id": 77,
+   "text": "Yo ando igual jajajajajaj",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo ando igual jajajajajaj"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "type": "message",
+   "date": "2023-01-29T14:20:07",
+   "date_unixtime": "1674998407",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Se me hace raro no haber hecho nada en dos días pero podría ser",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se me hace raro no haber hecho nada en dos días pero podría ser"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "type": "message",
+   "date": "2023-01-29T14:23:16",
+   "date_unixtime": "1674998596",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Yo ayer no hice y en mi casa karla no hace caca",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo ayer no hice y en mi casa karla no hace caca"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "type": "message",
+   "date": "2023-01-29T14:23:26",
+   "date_unixtime": "1674998606",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Asi que no sé",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Asi que no sé"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "type": "message",
+   "date": "2023-01-29T14:33:49",
+   "date_unixtime": "1674999229",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Entonces será que no",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Entonces será que no"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "type": "message",
+   "date": "2023-01-30T09:59:14",
+   "date_unixtime": "1675069154",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "type": "message",
+   "date": "2023-01-30T10:00:07",
+   "date_unixtime": "1675069207",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "reply_to_message_id": 84,
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 1,
+   "width": 320,
+   "height": 216,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 86,
+   "type": "message",
+   "date": "2023-01-30T10:06:24",
+   "date_unixtime": "1675069584",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 288,
+   "height": 352,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 87,
+   "type": "message",
+   "date": "2023-01-30T13:32:05",
+   "date_unixtime": "1675081925",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "type": "message",
+   "date": "2023-01-30T15:47:07",
+   "date_unixtime": "1675090027",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "type": "message",
+   "date": "2023-01-30T18:08:21",
+   "date_unixtime": "1675098501",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "type": "message",
+   "date": "2023-01-31T11:07:26",
+   "date_unixtime": "1675159646",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "type": "message",
+   "date": "2023-01-31T11:09:05",
+   "date_unixtime": "1675159745",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "type": "message",
+   "date": "2023-01-31T11:40:20",
+   "date_unixtime": "1675161620",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Este febrero habra kpi?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Este febrero habra kpi?"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "type": "message",
+   "date": "2023-01-31T11:41:06",
+   "date_unixtime": "1675161666",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Habría que usar algún bot para sacar las cacas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Habría que usar algún bot para sacar las cacas"
+    }
+   ]
+  },
+  {
+   "id": 94,
+   "type": "message",
+   "date": "2023-01-31T11:41:08",
+   "date_unixtime": "1675161668",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "XD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "XD"
+    }
+   ]
+  },
+  {
+   "id": 95,
+   "type": "service",
+   "date": "2023-01-31T12:40:46",
+   "date_unixtime": "1675165246",
+   "actor": "Karla 🐈",
+   "actor_id": "user169687316",
+   "action": "invite_members",
+   "members": [
+    "Álvaro"
+   ],
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 96,
+   "type": "message",
+   "date": "2023-01-31T12:40:53",
+   "date_unixtime": "1675165253",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Bienvenido",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Bienvenido"
+    }
+   ]
+  },
+  {
+   "id": 97,
+   "type": "message",
+   "date": "2023-01-31T12:41:02",
+   "date_unixtime": "1675165262",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 288,
+   "height": 214,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 98,
+   "type": "message",
+   "date": "2023-01-31T12:46:15",
+   "date_unixtime": "1675165575",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "Ya tengo dos grupos de estos jajajaja",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ya tengo dos grupos de estos jajajaja"
+    }
+   ]
+  },
+  {
+   "id": 99,
+   "type": "message",
+   "date": "2023-01-31T12:46:25",
+   "date_unixtime": "1675165585",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 3,
+   "width": 220,
+   "height": 150,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 100,
+   "type": "message",
+   "date": "2023-01-31T13:02:15",
+   "date_unixtime": "1675166535",
+   "edited": "2023-01-31T13:48:36",
+   "edited_unixtime": "1675169316",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Vas a tener que programar un bot para que hagas envíos simultáneos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Vas a tener que programar un bot para que hagas envíos simultáneos"
+    }
+   ]
+  },
+  {
+   "id": 101,
+   "type": "message",
+   "date": "2023-01-31T13:02:42",
+   "date_unixtime": "1675166562",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "El hijoputa de al va a spamear fijo 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "El hijoputa de al va a spamear fijo 😂"
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "type": "message",
+   "date": "2023-01-31T13:48:59",
+   "date_unixtime": "1675169339",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Siempre podemos invitar a más gente 😌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Siempre podemos invitar a más gente 😌"
+    }
+   ]
+  },
+  {
+   "id": 103,
+   "type": "message",
+   "date": "2023-01-31T14:07:02",
+   "date_unixtime": "1675170422",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Chi",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Chi"
+    }
+   ]
+  },
+  {
+   "id": 104,
+   "type": "message",
+   "date": "2023-01-31T14:28:49",
+   "date_unixtime": "1675171729",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "Una al día, como mucho 2",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Una al día, como mucho 2"
+    }
+   ]
+  },
+  {
+   "id": 105,
+   "type": "message",
+   "date": "2023-01-31T14:30:37",
+   "date_unixtime": "1675171837",
+   "edited": "2023-01-31T14:32:41",
+   "edited_unixtime": "1675171961",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Como mucho uno o dos casos",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Como mucho uno o dos casos"
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "type": "message",
+   "date": "2023-01-31T16:30:37",
+   "date_unixtime": "1675179037",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 107,
+   "type": "message",
+   "date": "2023-01-31T18:13:10",
+   "date_unixtime": "1675185190",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 108,
+   "type": "message",
+   "date": "2023-02-01T11:18:27",
+   "date_unixtime": "1675246707",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 109,
+   "type": "message",
+   "date": "2023-02-01T11:37:20",
+   "date_unixtime": "1675247840",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "type": "message",
+   "date": "2023-02-01T11:37:26",
+   "date_unixtime": "1675247846",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Se me olvidó ponerlo xD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se me olvidó ponerlo xD"
+    }
+   ]
+  },
+  {
+   "id": 111,
+   "type": "message",
+   "date": "2023-02-01T11:37:31",
+   "date_unixtime": "1675247851",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Muy mal",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Muy mal"
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "type": "message",
+   "date": "2023-02-01T18:34:00",
+   "date_unixtime": "1675272840",
+   "edited": "2023-02-01T18:34:17",
+   "edited_unixtime": "1675272857",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "Esta fue a la 17:00",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Esta fue a la 17:00"
+    }
+   ]
+  },
+  {
+   "id": 113,
+   "type": "message",
+   "date": "2023-02-01T18:34:10",
+   "date_unixtime": "1675272850",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "type": "message",
+   "date": "2023-02-01T18:43:54",
+   "date_unixtime": "1675273434",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Yo mas tarde si eso jajaja",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo mas tarde si eso jajaja"
+    }
+   ]
+  },
+  {
+   "id": 115,
+   "type": "message",
+   "date": "2023-02-01T18:55:02",
+   "date_unixtime": "1675274102",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 116,
+   "type": "message",
+   "date": "2023-02-02T10:58:05",
+   "date_unixtime": "1675331885",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 117,
+   "type": "message",
+   "date": "2023-02-02T12:21:00",
+   "date_unixtime": "1675336860",
+   "edited": "2023-02-02T12:28:46",
+   "edited_unixtime": "1675337326",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 118,
+   "type": "message",
+   "date": "2023-02-02T12:21:11",
+   "date_unixtime": "1675336871",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Caca office",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Caca office"
+    }
+   ]
+  },
+  {
+   "id": 119,
+   "type": "message",
+   "date": "2023-02-03T11:00:04",
+   "date_unixtime": "1675418404",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "type": "message",
+   "date": "2023-02-03T14:08:06",
+   "date_unixtime": "1675429686",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 121,
+   "type": "message",
+   "date": "2023-02-03T15:57:29",
+   "date_unixtime": "1675436249",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩💩"
+    }
+   ]
+  },
+  {
+   "id": 122,
+   "type": "message",
+   "date": "2023-02-03T15:57:55",
+   "date_unixtime": "1675436275",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "Ayer no lo hice y he soltado tremenda cagada",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ayer no lo hice y he soltado tremenda cagada"
+    }
+   ]
+  },
+  {
+   "id": 123,
+   "type": "message",
+   "date": "2023-02-03T16:00:51",
+   "date_unixtime": "1675436451",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Ponlo separado",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ponlo separado"
+    }
+   ]
+  },
+  {
+   "id": 124,
+   "type": "message",
+   "date": "2023-02-03T16:01:06",
+   "date_unixtime": "1675436466",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Que igual en no mucho programo algo para sacar estadísticas",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Que igual en no mucho programo algo para sacar estadísticas"
+    }
+   ]
+  },
+  {
+   "id": 125,
+   "type": "message",
+   "date": "2023-02-03T16:01:58",
+   "date_unixtime": "1675436518",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "type": "message",
+   "date": "2023-02-03T16:02:08",
+   "date_unixtime": "1675436528",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Y si es una caca pequeña?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Y si es una caca pequeña?"
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "type": "message",
+   "date": "2023-02-03T16:02:21",
+   "date_unixtime": "1675436541",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Lo hice anoche pero era tan pequeña que no lo puse",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Lo hice anoche pero era tan pequeña que no lo puse"
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "type": "message",
+   "date": "2023-02-03T16:07:11",
+   "date_unixtime": "1675436831",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Se pone se pone",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Se pone se pone"
+    }
+   ]
+  },
+  {
+   "id": 129,
+   "type": "message",
+   "date": "2023-02-03T16:07:28",
+   "date_unixtime": "1675436848",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Cada vez que la tortuga asoma la cabeza se pone XD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Cada vez que la tortuga asoma la cabeza se pone XD"
+    }
+   ]
+  },
+  {
+   "id": 130,
+   "type": "message",
+   "date": "2023-02-03T16:44:31",
+   "date_unixtime": "1675439071",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Pues lo pongo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pues lo pongo"
+    }
+   ]
+  },
+  {
+   "id": 131,
+   "type": "message",
+   "date": "2023-02-03T16:44:36",
+   "date_unixtime": "1675439076",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 132,
+   "type": "message",
+   "date": "2023-02-03T18:49:31",
+   "date_unixtime": "1675446571",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "reply_to_message_id": 121,
+   "text": [
+    "Poned solo uno que luego cuenta por dos ",
+    {
+     "type": "mention",
+     "text": "@Keynann"
+    }
+   ],
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Poned solo uno que luego cuenta por dos "
+    },
+    {
+     "type": "mention",
+     "text": "@Keynann"
+    }
+   ]
+  },
+  {
+   "id": 133,
+   "type": "message",
+   "date": "2023-02-04T19:22:31",
+   "date_unixtime": "1675534951",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 134,
+   "type": "message",
+   "date": "2023-02-04T20:46:01",
+   "date_unixtime": "1675539961",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "type": "message",
+   "date": "2023-02-05T15:40:26",
+   "date_unixtime": "1675608026",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 136,
+   "type": "message",
+   "date": "2023-02-05T15:44:43",
+   "date_unixtime": "1675608283",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "type": "message",
+   "date": "2023-02-05T16:43:48",
+   "date_unixtime": "1675611828",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 138,
+   "type": "message",
+   "date": "2023-02-05T17:48:43",
+   "date_unixtime": "1675615723",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 139,
+   "type": "message",
+   "date": "2023-02-05T17:56:53",
+   "date_unixtime": "1675616213",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "No vale guardarse la caca y luego tirar todo hdp",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No vale guardarse la caca y luego tirar todo hdp"
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "type": "message",
+   "date": "2023-02-05T17:57:09",
+   "date_unixtime": "1675616229",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂"
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "type": "message",
+   "date": "2023-02-05T17:57:36",
+   "date_unixtime": "1675616256",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "No me salio todo antes",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No me salio todo antes"
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "type": "message",
+   "date": "2023-02-05T20:29:39",
+   "date_unixtime": "1675625379",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 143,
+   "type": "message",
+   "date": "2023-02-06T11:54:16",
+   "date_unixtime": "1675680856",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 144,
+   "type": "message",
+   "date": "2023-02-06T12:57:47",
+   "date_unixtime": "1675684667",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "type": "message",
+   "date": "2023-02-06T15:13:24",
+   "date_unixtime": "1675692804",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 146,
+   "type": "message",
+   "date": "2023-02-07T10:21:18",
+   "date_unixtime": "1675761678",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "type": "message",
+   "date": "2023-02-07T17:16:10",
+   "date_unixtime": "1675786570",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "type": "message",
+   "date": "2023-02-07T18:13:56",
+   "date_unixtime": "1675790036",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 149,
+   "type": "message",
+   "date": "2023-02-09T11:52:19",
+   "date_unixtime": "1675939939",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "type": "message",
+   "date": "2023-02-09T11:55:00",
+   "date_unixtime": "1675940100",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Que pereza me da cagar hoy",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Que pereza me da cagar hoy"
+    }
+   ]
+  },
+  {
+   "id": 151,
+   "type": "message",
+   "date": "2023-02-09T11:55:12",
+   "date_unixtime": "1675940112",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "XDDDD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "XDDDD"
+    }
+   ]
+  },
+  {
+   "id": 152,
+   "type": "message",
+   "date": "2023-02-09T11:55:28",
+   "date_unixtime": "1675940128",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Y eso que en la ofi me gusta",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Y eso que en la ofi me gusta"
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "type": "message",
+   "date": "2023-02-09T11:55:58",
+   "date_unixtime": "1675940158",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Por cierto, he mirado como contabilizar las cacas y parece sencillo... Se puede exportar el chat a html. Sólo habría que contar los emojis por meses",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Por cierto, he mirado como contabilizar las cacas y parece sencillo... Se puede exportar el chat a html. Sólo habría que contar los emojis por meses"
+    }
+   ]
+  },
+  {
+   "id": 154,
+   "type": "message",
+   "date": "2023-02-09T11:56:13",
+   "date_unixtime": "1675940173",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Contar? Nosotros o con js?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Contar? Nosotros o con js?"
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "type": "message",
+   "date": "2023-02-09T11:56:25",
+   "date_unixtime": "1675940185",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "reply_to_message_id": 152,
+   "text": "Encima mixto, para que pueda oírte cualquier persona 😌",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Encima mixto, para que pueda oírte cualquier persona 😌"
+    }
+   ]
+  },
+  {
+   "id": 156,
+   "type": "message",
+   "date": "2023-02-09T11:56:28",
+   "date_unixtime": "1675940188",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "reply_to_message_id": 154,
+   "text": "Js",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Js"
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "type": "message",
+   "date": "2023-02-09T11:56:37",
+   "date_unixtime": "1675940197",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Sabiendo js no cuento a mano 😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sabiendo js no cuento a mano 😂"
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "type": "message",
+   "date": "2023-02-09T11:56:42",
+   "date_unixtime": "1675940202",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Ufff se viene proyecto de github",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ufff se viene proyecto de github"
+    }
+   ]
+  },
+  {
+   "id": 159,
+   "type": "message",
+   "date": "2023-02-09T11:56:47",
+   "date_unixtime": "1675940207",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "No se si quiero o debo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "No se si quiero o debo"
+    }
+   ]
+  },
+  {
+   "id": 160,
+   "type": "message",
+   "date": "2023-02-09T11:56:54",
+   "date_unixtime": "1675940214",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Sip, el siguiente a gasolinapp",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Sip, el siguiente a gasolinapp"
+    }
+   ]
+  },
+  {
+   "id": 161,
+   "type": "message",
+   "date": "2023-02-09T12:10:49",
+   "date_unixtime": "1675941049",
+   "edited": "2023-02-09T12:10:57",
+   "edited_unixtime": "1675941057",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Okay la creas tu tonces? Es que mi git esta vasio de proyecto :(",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Okay la creas tu tonces? Es que mi git esta vasio de proyecto :("
+    }
+   ]
+  },
+  {
+   "id": 162,
+   "type": "message",
+   "date": "2023-02-09T12:11:24",
+   "date_unixtime": "1675941084",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Ya lo haré sí",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Ya lo haré sí"
+    }
+   ]
+  },
+  {
+   "id": 163,
+   "type": "message",
+   "date": "2023-02-09T13:15:12",
+   "date_unixtime": "1675944912",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": ":(",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": ":("
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "type": "message",
+   "date": "2023-02-09T15:13:19",
+   "date_unixtime": "1675951999",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 165,
+   "type": "message",
+   "date": "2023-02-10T09:41:50",
+   "date_unixtime": "1676018510",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 166,
+   "type": "message",
+   "date": "2023-02-10T15:54:04",
+   "date_unixtime": "1676040844",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 167,
+   "type": "message",
+   "date": "2023-02-10T18:09:28",
+   "date_unixtime": "1676048968",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 168,
+   "type": "message",
+   "date": "2023-02-10T19:43:47",
+   "date_unixtime": "1676054627",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 169,
+   "type": "message",
+   "date": "2023-02-10T19:44:00",
+   "date_unixtime": "1676054640",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "😭",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😭"
+    }
+   ]
+  },
+  {
+   "id": 170,
+   "type": "message",
+   "date": "2023-02-10T23:44:13",
+   "date_unixtime": "1676069053",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 171,
+   "type": "message",
+   "date": "2023-02-10T23:44:28",
+   "date_unixtime": "1676069068",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 172,
+   "type": "message",
+   "date": "2023-02-10T23:44:32",
+   "date_unixtime": "1676069072",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "On time",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "On time"
+    }
+   ]
+  },
+  {
+   "id": 173,
+   "type": "message",
+   "date": "2023-02-10T23:44:53",
+   "date_unixtime": "1676069093",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "🤝",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🤝"
+    }
+   ]
+  },
+  {
+   "id": 174,
+   "type": "message",
+   "date": "2023-02-11T12:33:34",
+   "date_unixtime": "1676115214",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 175,
+   "type": "message",
+   "date": "2023-02-11T16:03:31",
+   "date_unixtime": "1676127811",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 176,
+   "type": "message",
+   "date": "2023-02-11T19:51:27",
+   "date_unixtime": "1676141487",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 177,
+   "type": "message",
+   "date": "2023-02-12T00:16:53",
+   "date_unixtime": "1676157413",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 178,
+   "type": "message",
+   "date": "2023-02-12T02:11:05",
+   "date_unixtime": "1676164265",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 179,
+   "type": "message",
+   "date": "2023-02-12T15:03:23",
+   "date_unixtime": "1676210603",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 180,
+   "type": "message",
+   "date": "2023-02-12T18:05:11",
+   "date_unixtime": "1676221511",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 181,
+   "type": "message",
+   "date": "2023-02-12T18:06:20",
+   "date_unixtime": "1676221580",
+   "edited": "2023-02-12T18:06:30",
+   "edited_unixtime": "1676221590",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 480,
+   "height": 330,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 182,
+   "type": "message",
+   "date": "2023-02-12T19:43:16",
+   "date_unixtime": "1676227396",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 183,
+   "type": "message",
+   "date": "2023-02-12T23:05:00",
+   "date_unixtime": "1676239500",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 184,
+   "type": "message",
+   "date": "2023-02-13T00:00:32",
+   "date_unixtime": "1676242832",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 185,
+   "type": "message",
+   "date": "2023-02-13T00:05:25",
+   "date_unixtime": "1676243125",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 186,
+   "type": "message",
+   "date": "2023-02-13T11:30:13",
+   "date_unixtime": "1676284213",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 187,
+   "type": "message",
+   "date": "2023-02-13T11:35:14",
+   "date_unixtime": "1676284514",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 188,
+   "type": "message",
+   "date": "2023-02-13T23:32:31",
+   "date_unixtime": "1676327551",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 189,
+   "type": "message",
+   "date": "2023-02-13T23:46:04",
+   "date_unixtime": "1676328364",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 190,
+   "type": "message",
+   "date": "2023-02-14T10:19:20",
+   "date_unixtime": "1676366360",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 191,
+   "type": "message",
+   "date": "2023-02-14T16:07:25",
+   "date_unixtime": "1676387245",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 192,
+   "type": "message",
+   "date": "2023-02-14T16:09:28",
+   "date_unixtime": "1676387368",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 193,
+   "type": "message",
+   "date": "2023-02-14T16:47:31",
+   "date_unixtime": "1676389651",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 194,
+   "type": "message",
+   "date": "2023-02-14T17:10:31",
+   "date_unixtime": "1676391031",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 195,
+   "type": "message",
+   "date": "2023-02-14T17:10:37",
+   "date_unixtime": "1676391037",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "La de antes era de por la mañana",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "La de antes era de por la mañana"
+    }
+   ]
+  },
+  {
+   "id": 196,
+   "type": "message",
+   "date": "2023-02-14T17:10:42",
+   "date_unixtime": "1676391042",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Que se me paso xd",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Que se me paso xd"
+    }
+   ]
+  },
+  {
+   "id": 197,
+   "type": "message",
+   "date": "2023-02-14T17:11:01",
+   "date_unixtime": "1676391061",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Yo con los nervios estoy muy cacoso",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo con los nervios estoy muy cacoso"
+    }
+   ]
+  },
+  {
+   "id": 198,
+   "type": "message",
+   "date": "2023-02-14T17:23:06",
+   "date_unixtime": "1676391786",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "reply_to_message_id": 195,
+   "text": "Yo igual",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Yo igual"
+    }
+   ]
+  },
+  {
+   "id": 199,
+   "type": "message",
+   "date": "2023-02-15T11:35:16",
+   "date_unixtime": "1676457316",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 200,
+   "type": "message",
+   "date": "2023-02-16T13:34:54",
+   "date_unixtime": "1676550894",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 201,
+   "type": "message",
+   "date": "2023-02-16T15:19:47",
+   "date_unixtime": "1676557187",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 202,
+   "type": "message",
+   "date": "2023-02-17T09:16:36",
+   "date_unixtime": "1676621796",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 203,
+   "type": "message",
+   "date": "2023-02-17T15:48:12",
+   "date_unixtime": "1676645292",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 204,
+   "type": "message",
+   "date": "2023-02-17T15:50:54",
+   "date_unixtime": "1676645454",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 205,
+   "type": "message",
+   "date": "2023-02-18T11:05:57",
+   "date_unixtime": "1676714757",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 206,
+   "type": "message",
+   "date": "2023-02-18T11:06:36",
+   "date_unixtime": "1676714796",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Espero que se te haya olvidado y hayas cagado en 4 días xD",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Espero que se te haya olvidado y hayas cagado en 4 días xD"
+    }
+   ]
+  },
+  {
+   "id": 207,
+   "type": "message",
+   "date": "2023-02-18T16:10:24",
+   "date_unixtime": "1676733024",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 208,
+   "type": "message",
+   "date": "2023-02-18T18:04:47",
+   "date_unixtime": "1676739887",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 209,
+   "type": "message",
+   "date": "2023-02-18T18:34:57",
+   "date_unixtime": "1676741697",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 210,
+   "type": "message",
+   "date": "2023-02-19T01:07:38",
+   "date_unixtime": "1676765258",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 211,
+   "type": "message",
+   "date": "2023-02-19T11:26:01",
+   "date_unixtime": "1676802361",
+   "edited": "2023-02-19T11:28:23",
+   "edited_unixtime": "1676802503",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 212,
+   "type": "message",
+   "date": "2023-02-19T15:56:56",
+   "date_unixtime": "1676818616",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 213,
+   "type": "message",
+   "date": "2023-02-19T18:47:17",
+   "date_unixtime": "1676828837",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 214,
+   "type": "message",
+   "date": "2023-02-19T19:40:47",
+   "date_unixtime": "1676832047",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 215,
+   "type": "message",
+   "date": "2023-02-20T09:07:55",
+   "date_unixtime": "1676880475",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 216,
+   "type": "message",
+   "date": "2023-02-20T11:08:18",
+   "date_unixtime": "1676887698",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 217,
+   "type": "message",
+   "date": "2023-02-20T11:08:38",
+   "date_unixtime": "1676887718",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Combo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Combo"
+    }
+   ]
+  },
+  {
+   "id": 218,
+   "type": "message",
+   "date": "2023-02-20T12:22:56",
+   "date_unixtime": "1676892176",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 219,
+   "type": "message",
+   "date": "2023-02-20T17:28:14",
+   "date_unixtime": "1676910494",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 220,
+   "type": "message",
+   "date": "2023-02-21T10:18:49",
+   "date_unixtime": "1676971129",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 221,
+   "type": "message",
+   "date": "2023-02-21T13:02:23",
+   "date_unixtime": "1676980943",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 222,
+   "type": "message",
+   "date": "2023-02-21T16:58:45",
+   "date_unixtime": "1676995125",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 223,
+   "type": "message",
+   "date": "2023-02-22T09:36:40",
+   "date_unixtime": "1677055000",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 224,
+   "type": "message",
+   "date": "2023-02-22T11:28:37",
+   "date_unixtime": "1677061717",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Que buen regalo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Que buen regalo"
+    }
+   ]
+  },
+  {
+   "id": 225,
+   "type": "message",
+   "date": "2023-02-22T12:37:19",
+   "date_unixtime": "1677065839",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 226,
+   "type": "message",
+   "date": "2023-02-22T13:43:26",
+   "date_unixtime": "1677069806",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 227,
+   "type": "message",
+   "date": "2023-02-24T00:06:25",
+   "date_unixtime": "1677193585",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "😭😭😭",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😭😭😭"
+    }
+   ]
+  },
+  {
+   "id": 228,
+   "type": "message",
+   "date": "2023-02-24T00:08:05",
+   "date_unixtime": "1677193685",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "Llevas 4 días? D:",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Llevas 4 días? D:"
+    }
+   ]
+  },
+  {
+   "id": 229,
+   "type": "message",
+   "date": "2023-02-24T00:08:59",
+   "date_unixtime": "1677193739",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "sticker",
+   "sticker_emoji": "😢",
+   "width": 512,
+   "height": 512,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 230,
+   "type": "message",
+   "date": "2023-02-24T00:09:13",
+   "date_unixtime": "1677193753",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "3",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "3"
+    }
+   ]
+  },
+  {
+   "id": 231,
+   "type": "message",
+   "date": "2023-02-24T00:09:24",
+   "date_unixtime": "1677193764",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Pero justo",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Pero justo"
+    }
+   ]
+  },
+  {
+   "id": 232,
+   "type": "message",
+   "date": "2023-02-24T00:09:26",
+   "date_unixtime": "1677193766",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 233,
+   "type": "message",
+   "date": "2023-02-24T00:09:31",
+   "date_unixtime": "1677193771",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "😂😂😂😂😂",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "😂😂😂😂😂"
+    }
+   ]
+  },
+  {
+   "id": 234,
+   "type": "message",
+   "date": "2023-02-24T14:17:04",
+   "date_unixtime": "1677244624",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 235,
+   "type": "message",
+   "date": "2023-02-24T15:02:07",
+   "date_unixtime": "1677247327",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 236,
+   "type": "message",
+   "date": "2023-02-24T15:07:05",
+   "date_unixtime": "1677247625",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 237,
+   "type": "message",
+   "date": "2023-02-24T21:34:00",
+   "date_unixtime": "1677270840",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 238,
+   "type": "message",
+   "date": "2023-02-24T21:34:06",
+   "date_unixtime": "1677270846",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Solo cago yo?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Solo cago yo?"
+    }
+   ]
+  },
+  {
+   "id": 239,
+   "type": "message",
+   "date": "2023-02-25T11:53:48",
+   "date_unixtime": "1677322428",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 240,
+   "type": "message",
+   "date": "2023-02-25T13:42:24",
+   "date_unixtime": "1677328944",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 241,
+   "type": "message",
+   "date": "2023-02-25T15:27:10",
+   "date_unixtime": "1677335230",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 242,
+   "type": "message",
+   "date": "2023-02-25T16:18:03",
+   "date_unixtime": "1677338283",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 243,
+   "type": "message",
+   "date": "2023-02-25T21:05:49",
+   "date_unixtime": "1677355549",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 244,
+   "type": "message",
+   "date": "2023-02-26T02:47:26",
+   "date_unixtime": "1677376046",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 245,
+   "type": "message",
+   "date": "2023-02-26T13:12:54",
+   "date_unixtime": "1677413574",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 246,
+   "type": "message",
+   "date": "2023-02-26T15:10:58",
+   "date_unixtime": "1677420658",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 248,
+   "type": "message",
+   "date": "2023-02-26T15:13:08",
+   "date_unixtime": "1677420788",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "poll": {
+    "question": "La caca la ponéis antes, durante o cuando ya habéis terminado?",
+    "closed": false,
+    "total_voters": 4,
+    "answers": [
+     {
+      "text": "Antes",
+      "voters": 0,
+      "chosen": false
+     },
+     {
+      "text": "Durante",
+      "voters": 3,
+      "chosen": true
+     },
+     {
+      "text": "Después",
+      "voters": 1,
+      "chosen": false
+     }
+    ]
+   },
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 249,
+   "type": "message",
+   "date": "2023-02-26T16:47:12",
+   "date_unixtime": "1677426432",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "Durante o despues generalmente",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Durante o despues generalmente"
+    }
+   ]
+  },
+  {
+   "id": 250,
+   "type": "message",
+   "date": "2023-02-26T16:57:48",
+   "date_unixtime": "1677427068",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 251,
+   "type": "message",
+   "date": "2023-02-26T17:40:04",
+   "date_unixtime": "1677429604",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 252,
+   "type": "message",
+   "date": "2023-02-26T20:56:20",
+   "date_unixtime": "1677441380",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 253,
+   "type": "message",
+   "date": "2023-02-27T09:36:45",
+   "date_unixtime": "1677487005",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 254,
+   "type": "message",
+   "date": "2023-02-27T09:36:50",
+   "date_unixtime": "1677487010",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "Estoy a tope",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "Estoy a tope"
+    }
+   ]
+  },
+  {
+   "id": 255,
+   "type": "message",
+   "date": "2023-02-27T09:38:07",
+   "date_unixtime": "1677487087",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "animation",
+   "mime_type": "video/mp4",
+   "duration_seconds": 2,
+   "width": 320,
+   "height": 192,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 256,
+   "type": "message",
+   "date": "2023-02-27T10:12:00",
+   "date_unixtime": "1677489120",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 257,
+   "type": "message",
+   "date": "2023-02-27T21:14:30",
+   "date_unixtime": "1677528870",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 258,
+   "type": "message",
+   "date": "2023-02-27T21:19:18",
+   "date_unixtime": "1677529158",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 259,
+   "type": "message",
+   "date": "2023-02-28T02:15:58",
+   "date_unixtime": "1677546958",
+   "from": "Álvaro",
+   "from_id": "user350349656",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 260,
+   "type": "message",
+   "date": "2023-02-28T10:05:15",
+   "date_unixtime": "1677575115",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 261,
+   "type": "message",
+   "date": "2023-02-28T13:47:27",
+   "date_unixtime": "1677588447",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 262,
+   "type": "message",
+   "date": "2023-02-28T18:35:08",
+   "date_unixtime": "1677605708",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 263,
+   "type": "message",
+   "date": "2023-02-28T18:37:02",
+   "date_unixtime": "1677605822",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "☕️🚬=🗿",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "☕️🚬=🗿"
+    }
+   ]
+  },
+  {
+   "id": 264,
+   "type": "message",
+   "date": "2023-03-01T11:31:21",
+   "date_unixtime": "1677666681",
+   "from": "Karla 🐈",
+   "from_id": "user169687316",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 265,
+   "type": "message",
+   "date": "2023-03-01T11:49:09",
+   "date_unixtime": "1677667749",
+   "from": "Daniel",
+   "from_id": "user169509184",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  },
+  {
+   "id": 266,
+   "type": "message",
+   "date": "2023-03-01T13:36:56",
+   "date_unixtime": "1677674216",
+   "from": "Sergio Niño Polla",
+   "from_id": "user168153784",
+   "text": "💩",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "💩"
+    }
+   ]
+  }
+ ]
+}
