@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDateTime;
 import java.util.*;
 
 @Service
@@ -12,10 +13,61 @@ import java.util.*;
 public class ChatService {
     public ChatDto transform(Chat chat, String emoji, Map<String, String> options) {
         var month = options.get("month");
+        var year = options.get("year");
 
-        var chatData =  chat.getMessages().stream()
+        var chatData = applyFilter(chat, emoji, options, month, year);
+
+        var graphData = groupAndConvert(chatData);
+        var users = chatData.stream().map(ChatDto.ChatData::getName).distinct().toList();
+        var summaryStats = getStats(month, chatData, users);
+
+        var dto = new ChatDto();
+        dto.setGraphData(graphData);
+        dto.setUsers(users);
+        dto.setStats(summaryStats);
+        return dto;
+    }
+
+    private static List<SummaryStats> getStats(String month, List<ChatDto.ChatData> chatData, List<String> users) {
+        return users.stream()
+                .map(user -> {
+                    var userChatData = chatData.stream().filter(data -> data.getName().equalsIgnoreCase(user)).toList();
+                    var total = userChatData.size();
+                    var days = month.equalsIgnoreCase("ALL") ? 365 : Month.valueOf(month.toUpperCase()).getDays();
+                    var mean = total / (double) days;
+                    var groupedData = new HashMap<LocalDateTime, Integer>();
+                    for (var item : userChatData) {
+                        var date = item.getDate().withHour(0).withMinute(0).withSecond(0).withNano(0);
+                        if (!groupedData.containsKey(date)) {
+                            groupedData.put(date, 0);
+                        }
+                        groupedData.put(date, groupedData.get(date) + 1);
+                    }
+                    var max = Collections.max(groupedData.values());
+                    var min = Collections.min(groupedData.values());
+                    return SummaryStats.builder()
+                            .user(user)
+                            .stats(SummaryStats.Stats.builder()
+                                    .total(total)
+                                    .mean(mean)
+                                    .max(max)
+                                    .min(min)
+                                    .build())
+                            .build();
+                })
+                .toList();
+    }
+
+    private static List<ChatDto.ChatData> applyFilter(Chat chat, String emoji, Map<String, String> options, String month, String year) {
+        return chat.getMessages().stream()
                 .filter(message -> message.getType() == MessageType.MESSAGE)
                 .filter(message -> message.getText().contains(emoji))
+                .filter(message -> {
+                    if (year.equalsIgnoreCase("ALL")) {
+                        return true;
+                    }
+                    return message.getDate().getYear() == Integer.parseInt(options.get("year"));
+                })
                 .filter(message -> {
                     if (month.equalsIgnoreCase("ALL")) {
                         return true;
@@ -24,15 +76,6 @@ public class ChatService {
                 })
                 .map(ChatDto.ChatData::from)
                 .toList();
-
-        var users = chatData.stream().map(ChatDto.ChatData::getName).distinct().toList();
-
-        var data = groupAndConvert(chatData);
-
-        var dto = new ChatDto();
-        dto.setData(data);
-        dto.setUsers(users);
-        return dto;
     }
 
     private List<Map<String, Object>> groupAndConvert(List<ChatDto.ChatData> chatData) {

@@ -28,6 +28,6 @@ public class ChatTest {
                 dto.getUsers());
         Assertions.assertEquals(
                 Map.of("date", "2023-01-14", "Daniel", 1),
-                dto.getData().get(0));
+                dto.getGraphData().get(0));
     }
 }

@@ -10,9 +10,11 @@ import java.util.Map;
 @Data
 public class ChatDto {
     @JsonProperty("data")
-    private List<Map<String, Object>> data;
+    private List<Map<String, Object>> graphData;
     @JsonProperty("users")
     private List<String> users;
+    @JsonProperty("stats")
+    private List<SummaryStats> stats;
     public ChatDto() {
         super();
     }
