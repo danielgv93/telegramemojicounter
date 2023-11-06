@@ -22,7 +22,7 @@ public class ChatTest {
     void parseTest() throws Exception {
         var emoji = "\uD83D\uDCA9";
         var chat = FileLoader.loadJson("/mocks/telegram-chat.json", Chat.class);
-        var dto = chatService.transform(chat, emoji, Map.of("month", "ALL"));
+        var dto = chatService.transform(chat, emoji, Map.of("month", "ALL", "year", "ALL"));
         Assertions.assertEquals(
                 List.of("Daniel", "Karla \uD83D\uDC08", "Sergio Niño Polla", "Álvaro"),
                 dto.getUsers());
