@@ -7,6 +7,7 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
 import java.util.*;
+import java.util.stream.Stream;
 
 @Service
 @RequiredArgsConstructor
@@ -18,17 +19,34 @@ public class ChatService {
         var chatData = applyFilter(chat, emoji, options, month, year);
 
         var graphData = groupAndConvert(chatData);
-        var users = chatData.stream().map(ChatDto.ChatData::getName).distinct().toList();
-        var summaryStats = getStats(month, chatData, users);
+        var users = chatData.stream().map(ChatDto.ChatData::getName).distinct().sorted().toList();
+        var statsByUser = getStatsByUser(month, chatData, users);
+
 
         var dto = new ChatDto();
         dto.setGraphData(graphData);
         dto.setUsers(users);
-        dto.setStats(summaryStats);
+        dto.setStatsByUser(statsByUser);
+        dto.setGeneralStats(getGeneralStats(statsByUser));
         return dto;
     }
 
-    private static List<SummaryStats> getStats(String month, List<ChatDto.ChatData> chatData, List<String> users) {
+    private static List<Stats.GeneralStats> getGeneralStats(List<Stats.StatsByUser> statsByUsers) {
+        return Stream.of(StatsType.values())
+                .map(statType -> {
+                    var stats = new HashMap<String, Double>();
+                    for (Stats.StatsByUser statsByUser : statsByUsers) {
+                        stats.put(statsByUser.getUser(), statsByUser.getStatsByUser().get(statType.getName()));
+                    }
+                    return Stats.GeneralStats.builder()
+                            .statName(statType.getName())
+                            .summaryStats(stats)
+                            .build();
+                })
+                .toList();
+    }
+
+    private static List<Stats.StatsByUser> getStatsByUser(String month, List<ChatDto.ChatData> chatData, List<String> users) {
         return users.stream()
                 .map(user -> {
                     var userChatData = chatData.stream().filter(data -> data.getName().equalsIgnoreCase(user)).toList();
@@ -45,14 +63,13 @@ public class ChatService {
                     }
                     var max = Collections.max(groupedData.values());
                     var min = Collections.min(groupedData.values());
-                    return SummaryStats.builder()
+                    var stats = Map.of(
+                            StatsType.TOTAL.getName(), (double) total,
+                            StatsType.MEAN.getName(), mean,
+                            StatsType.MAX.getName(), (double) max);
+                    return Stats.StatsByUser.builder()
                             .user(user)
-                            .stats(SummaryStats.Stats.builder()
-                                    .total(total)
-                                    .mean(mean)
-                                    .max(max)
-                                    .min(min)
-                                    .build())
+                            .statsByUser(stats)
                             .build();
                 })
                 .toList();
