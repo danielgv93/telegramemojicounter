@@ -13,6 +13,8 @@ public class ChatDto {
     private List<Map<String, Object>> graphData;
     @JsonProperty("users")
     private List<String> users;
+    @JsonProperty("years")
+    private List<String> years;
     @JsonProperty("summaryStats")
     private List<Stats.GeneralStats> generalStats;
     @JsonProperty("statsByUser")
