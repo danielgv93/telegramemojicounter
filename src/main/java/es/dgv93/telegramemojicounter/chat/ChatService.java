@@ -16,6 +16,14 @@ public class ChatService {
         var month = options.get("month");
         var year = options.get("year");
 
+        var yearList = chat.getMessages().stream()
+                .filter(message -> message.getType() == MessageType.MESSAGE)
+                .map(message -> message.getDate().getYear())
+                .distinct()
+                .sorted()
+                .map(String::valueOf)
+                .toList();
+
         var chatData = applyFilter(chat, emoji, options, month, year);
 
         var graphData = groupAndConvert(chatData);
@@ -28,6 +36,7 @@ public class ChatService {
         dto.setUsers(users);
         dto.setStatsByUser(statsByUser);
         dto.setGeneralStats(getGeneralStats(statsByUser));
+        dto.setYears(yearList);
         return dto;
     }
 
@@ -62,7 +71,6 @@ public class ChatService {
                         groupedData.put(date, groupedData.get(date) + 1);
                     }
                     var max = Collections.max(groupedData.values());
-                    var min = Collections.min(groupedData.values());
                     var stats = Map.of(
                             StatsType.TOTAL.getName(), (double) total,
                             StatsType.MEAN.getName(), mean,
